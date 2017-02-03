@@ -1,0 +1,1 @@
+Het uiteindelijke resultaat van dit project is een web applicatie waar je to do lists kunt maken met taken. Deze taken zijn dan zichtbaar in een agenda.
